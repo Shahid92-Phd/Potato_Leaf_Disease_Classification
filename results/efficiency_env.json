@@ -1,0 +1,6 @@
+{
+  "gpu": "CPU only",
+  "tf": "2.21.0",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "cpu": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel"
+}

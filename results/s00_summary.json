@@ -1,0 +1,22 @@
+{
+  "n_images": 1500,
+  "unique_sizes": [
+    [
+      256,
+      256
+    ]
+  ],
+  "n_exact_duplicate_files": 0,
+  "n_near_duplicate_pairs": 54,
+  "n_near_duplicate_pairs_by_class": {
+    "Early blight": 8,
+    "Late blight": 20,
+    "Healthy": 26
+  },
+  "n_cross_split_pairs": 14,
+  "n_label_conflicts": 15,
+  "n_test_images": 300,
+  "n_test_with_train_or_val_near_duplicate": 6,
+  "n_test_dedup": 294,
+  "hamming_threshold": 6
+}

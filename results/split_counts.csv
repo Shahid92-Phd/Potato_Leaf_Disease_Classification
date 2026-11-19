@@ -1,0 +1,4 @@
+split,Early blight,Late blight,Healthy,Total
+test,100,100,100,300
+train,300,300,300,900
+val,100,100,100,300

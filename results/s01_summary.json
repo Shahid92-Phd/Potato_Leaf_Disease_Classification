@@ -1,0 +1,80 @@
+{
+  "total_params": 66400515,
+  "trainable_params": 25832451,
+  "non_trainable_params": 40568064,
+  "weights_MB_float32": 253.3,
+  "input_shape": "(None, 224, 224, 3)",
+  "nested_backbones": [
+    {
+      "name": "mobilenetv2_1.00_224",
+      "output_shape": "(None, 7, 7, 1280)",
+      "params": 2257984,
+      "trainable": false,
+      "trainable_params": 0,
+      "last_layer": "out_relu"
+    },
+    {
+      "name": "resnet50",
+      "output_shape": "(None, 7, 7, 2048)",
+      "params": 23587712,
+      "trainable": false,
+      "trainable_params": 0,
+      "last_layer": "conv5_block3_out"
+    },
+    {
+      "name": "vgg16",
+      "output_shape": "(None, 7, 7, 512)",
+      "params": 14714688,
+      "trainable": false,
+      "trainable_params": 0,
+      "last_layer": "block5_pool"
+    }
+  ],
+  "concat_input_order": [
+    "mobilenetv2_1.00_224",
+    "resnet50",
+    "vgg16"
+  ],
+  "concat_output_shape": "(None, 7, 7, 3840)",
+  "preprocessing_lambda_layers": [],
+  "fusion_conv": [
+    {
+      "name": "conv2d",
+      "filters": 1024,
+      "kernel_size": [
+        2,
+        2
+      ],
+      "strides": [
+        1,
+        1
+      ],
+      "padding": "same",
+      "activation": "relu",
+      "output_shape": "(None, 7, 7, 1024)",
+      "params": 15729664
+    }
+  ],
+  "saved_model_test_accuracy": 0.9833333333333333,
+  "saved_model_test_accuracy_wilson95": [
+    0.9615846049313345,
+    0.9928605226945714
+  ],
+  "saved_model_confusion_matrix": [
+    [
+      100,
+      0,
+      0
+    ],
+    [
+      0,
+      97,
+      3
+    ],
+    [
+      0,
+      2,
+      98
+    ]
+  ]
+}

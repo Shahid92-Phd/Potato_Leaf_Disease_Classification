@@ -1,0 +1,21 @@
+name,type,output_shape,params,trainable_params,non_trainable_params,layer_trainable,config
+input_layer,InputLayer,"(None, 224, 224, 3)",0,0,0,True,{}
+pre_MobileNetV2,Preprocess,"(None, 224, 224, 3)",0,0,0,True,{}
+pre_ResNet50,Preprocess,"(None, 224, 224, 3)",0,0,0,True,{}
+pre_VGG16,Preprocess,"(None, 224, 224, 3)",0,0,0,True,{}
+mobilenetv2_1.00_224,Functional,"(None, 7, 7, 1280)",2257984,0,2257984,False,{}
+resnet50,Functional,"(None, 7, 7, 2048)",23587712,0,23587712,False,{}
+vgg16,Functional,"(None, 7, 7, 512)",14714688,0,14714688,False,{}
+concatenate,Concatenate,"(None, 7, 7, 3840)",0,0,0,True,{'axis': -1}
+batch_normalization,BatchNormalization,"(None, 7, 7, 3840)",15360,7680,7680,True,{'axis': -1}
+conv2d,Conv2D,"(None, 7, 7, 1024)",15729664,15729664,0,True,"{'filters': 1024, 'kernel_size': (2, 2), 'strides': (1, 1), 'padding': 'same', 'activation': 'relu'}"
+max_pooling2d,MaxPooling2D,"(None, 3, 3, 1024)",0,0,0,True,"{'strides': (2, 2), 'padding': 'valid', 'pool_size': (2, 2)}"
+flatten,Flatten,"(None, 9216)",0,0,0,True,{}
+dropout,Dropout,"(None, 9216)",0,0,0,True,{'rate': 0.3}
+dense,Dense,"(None, 1024)",9438208,9438208,0,True,"{'activation': 'relu', 'units': 1024}"
+dropout_1,Dropout,"(None, 1024)",0,0,0,True,{'rate': 0.3}
+dense_1,Dense,"(None, 512)",524800,524800,0,True,"{'activation': 'relu', 'units': 512}"
+dropout_2,Dropout,"(None, 512)",0,0,0,True,{'rate': 0.3}
+dense_2,Dense,"(None, 256)",131328,131328,0,True,"{'activation': 'relu', 'units': 256}"
+dropout_3,Dropout,"(None, 256)",0,0,0,True,{'rate': 0.3}
+dense_3,Dense,"(None, 3)",771,771,0,True,"{'activation': 'softmax', 'units': 3}"

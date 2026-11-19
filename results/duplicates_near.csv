@@ -1,0 +1,55 @@
+path_a,split_a,label_a,path_b,split_b,label_b,hamming,cross_split,label_conflict
+data/Potato/Train/Potato___Early_blight/c419a9f0-5fb9-4db6-a229-5c08c36896fe___RS_Early.B 8585.JPG,train,0,data/Potato/Valid/Potato___healthy/Potato_healthy-55-_0_178.jpg,val,2,6,True,True
+data/Potato/Train/Potato___Early_blight/c419a9f0-5fb9-4db6-a229-5c08c36896fe___RS_Early.B 8585.JPG,train,0,data/Potato/Valid/Potato___healthy/Potato_healthy-55-_0_811.jpg,val,2,6,True,True
+data/Potato/Train/Potato___Early_blight/c47fa8ac-b2a5-4470-bda6-26dec4000409___RS_Early.B 7395.JPG,train,0,data/Potato/Train/Potato___Late_blight/d42061d8-9da0-4190-8dd0-d3629f0cfa53___RS_LB 3954.JPG,train,1,6,False,True
+data/Potato/Train/Potato___Early_blight/c5cb3e89-f00f-4032-80ca-eb39bead0796___RS_Early.B 8645.JPG,train,0,data/Potato/Train/Potato___Late_blight/c6842cfb-6996-4a51-bc0a-7e2f89a903f0___RS_LB 3911.JPG,train,1,6,False,True
+data/Potato/Train/Potato___Early_blight/cd025ad0-9486-4ee6-b545-c9040dc4e1c7___RS_Early.B 8821.JPG,train,0,data/Potato/Valid/Potato___Early_blight/b4021eae-d195-400a-b7b7-9888367f5f2f___RS_Early.B 7881.JPG,val,0,6,True,False
+data/Potato/Train/Potato___Early_blight/dea6a6e4-cfb0-4c00-a0f7-bdd1e52f82e0___RS_Early.B 7246.JPG,train,0,data/Potato/Train/Potato___Early_blight/f686133a-e89a-4242-a52d-02f32ffd5275___RS_Early.B 8295.JPG,train,0,6,False,False
+data/Potato/Train/Potato___Early_blight/f2540cea-220b-4ba2-bf16-7c1c7f32c38c___RS_Early.B 7997.JPG,train,0,data/Potato/Train/Potato___Late_blight/f62c0408-af09-4883-a780-7bd335e60443___RS_LB 5258.JPG,train,1,6,False,True
+data/Potato/Train/Potato___Late_blight/b3123a68-bf01-4d71-a561-e1e7363a6419___RS_LB 2586.JPG,train,1,data/Potato/Train/Potato___healthy/Potato_healthy-123-_0_4015.jpg,train,2,6,False,True
+data/Potato/Train/Potato___Late_blight/bb19c5f3-2937-4c87-b964-d922088f4b19___RS_LB 4950.JPG,train,1,data/Potato/Train/Potato___Late_blight/dac19eb9-e4e3-4ca1-8183-268b839901c4___RS_LB 5208.JPG,train,1,6,False,False
+data/Potato/Train/Potato___Late_blight/bb3049f8-7377-4610-b13f-8daf6753bda7___RS_LB 4031.JPG,train,1,data/Potato/Valid/Potato___healthy/Potato_healthy-55-_0_178.jpg,val,2,4,True,True
+data/Potato/Train/Potato___Late_blight/bb3049f8-7377-4610-b13f-8daf6753bda7___RS_LB 4031.JPG,train,1,data/Potato/Valid/Potato___healthy/Potato_healthy-55-_0_811.jpg,val,2,6,True,True
+data/Potato/Train/Potato___Late_blight/c073bdde-9753-4035-8758-31fdc7cae993___RS_LB 2916.JPG,train,1,data/Potato/Train/Potato___Late_blight/cd04dd6c-fe7b-4587-ae2e-69228969d9d6___RS_LB 4824.JPG,train,1,6,False,False
+data/Potato/Train/Potato___Late_blight/c073bdde-9753-4035-8758-31fdc7cae993___RS_LB 2916.JPG,train,1,data/Potato/Train/Potato___Late_blight/f964b423-2146-4523-9f71-d7937c475bf0___RS_LB 3842.JPG,train,1,4,False,False
+data/Potato/Train/Potato___Late_blight/c6d1bbe7-c1d8-4760-9bb2-a97eac1ca0a8___RS_LB 3838.JPG,train,1,data/Potato/Train/Potato___Late_blight/f964b423-2146-4523-9f71-d7937c475bf0___RS_LB 3842.JPG,train,1,6,False,False
+data/Potato/Train/Potato___Late_blight/c84a1cfc-5e19-46df-a315-c7fb6a61e60f___RS_LB 4103.JPG,train,1,data/Potato/Train/Potato___Late_blight/df919a28-9f11-42f6-823c-15f70bf1325e___RS_LB 4936.JPG,train,1,6,False,False
+data/Potato/Train/Potato___Late_blight/c89d5a2a-2c1e-496e-84b8-b7a844a97ac9___RS_LB 4920.JPG,train,1,data/Potato/Train/Potato___Late_blight/f528b00d-99a6-41db-8d96-9eed58b519c1___RS_LB 4544.JPG,train,1,4,False,False
+data/Potato/Train/Potato___Late_blight/c89d5a2a-2c1e-496e-84b8-b7a844a97ac9___RS_LB 4920.JPG,train,1,data/Potato/Test/Potato___Early_blight/46819687-0705-4628-8748-9cb356587f30___RS_Early.B 8421.JPG,test,0,6,True,True
+data/Potato/Train/Potato___Late_blight/c970a188-e4e6-43cd-aff7-d0ac40d378dc___RS_LB 4834.JPG,train,1,data/Potato/Valid/Potato___healthy/Potato_healthy-68-_0_4638.jpg,val,2,6,True,True
+data/Potato/Train/Potato___Late_blight/cf2e3e15-2284-474a-a36a-b102aa7d50cc___RS_LB 4760.JPG,train,1,data/Potato/Train/Potato___healthy/Potato_healthy-78-_0_3384.jpg,train,2,6,False,True
+data/Potato/Train/Potato___Late_blight/d42061d8-9da0-4190-8dd0-d3629f0cfa53___RS_LB 3954.JPG,train,1,data/Potato/Valid/Potato___healthy/Potato_healthy-68-_0_8403.jpg,val,2,6,True,True
+data/Potato/Train/Potato___Late_blight/df6898c4-f3a1-4ff2-8f44-3bc45a8d4ec5___RS_LB 3316.JPG,train,1,data/Potato/Test/Potato___Late_blight/8829e413-5a7a-4680-b873-e71dfa9dbfe4___RS_LB 3974.JPG,test,1,6,True,False
+data/Potato/Train/Potato___Late_blight/dfa65276-0450-4a57-ba94-25384d378f22___RS_LB 4065.JPG,train,1,data/Potato/Test/Potato___Late_blight/716325d9-fca6-46b4-8f5a-f6729c211200___RS_LB 3958.JPG,test,1,6,True,False
+data/Potato/Train/Potato___Late_blight/fdb4e132-c71b-413f-93c0-c863dd4582a7___RS_LB 2582.JPG,train,1,data/Potato/Train/Potato___healthy/Potato_healthy-114-_0_1555.jpg,train,2,6,False,True
+data/Potato/Train/Potato___Late_blight/fdc86644-2491-4ace-b7e3-190e1d68ebba___RS_LB 5129.JPG,train,1,data/Potato/Valid/Potato___Late_blight/aceeb511-1332-4d25-b9fe-64d53445396a___RS_LB 4837.JPG,val,1,6,True,False
+data/Potato/Train/Potato___healthy/Potato_healthy-100-_0_6496.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-100-_0_781.jpg,train,2,2,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-109-_0_3833.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-109-_0_8248.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-114-_0_7388.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-114-_0_7492.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-124-_0_2846.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-124-_0_7217.jpg,train,2,2,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-124-_0_2846.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-124-_0_999.jpg,train,2,2,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-124-_0_7217.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-124-_0_999.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-127-_0_116.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-127-_0_5488.jpg,train,2,4,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-133-_0_1971.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-133-_0_645.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-148-_0_4600.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-148-_0_525.jpg,train,2,4,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-78-_0_7756.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-78-_0_9784.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-78-_0_7756.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-99-_0_387.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-78-_0_9784.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-99-_0_387.jpg,train,2,4,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-82-_0_7714.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-82-_0_9977.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-88-_0_192.jpg,train,2,data/Potato/Test/Potato___healthy/Potato_healthy-45-_0_6777.jpg,test,2,6,True,False
+data/Potato/Train/Potato___healthy/Potato_healthy-92-_0_6872.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-92-_0_7234.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-95-_0_2109.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-95-_0_9979.jpg,train,2,6,False,False
+data/Potato/Train/Potato___healthy/Potato_healthy-97-_0_2674.jpg,train,2,data/Potato/Train/Potato___healthy/Potato_healthy-97-_0_6462.jpg,train,2,6,False,False
+data/Potato/Valid/Potato___Early_blight/b14e0de2-ab48-45b5-9d4d-e45e7c88b68f___RS_Early.B 8554.JPG,val,0,data/Potato/Test/Potato___Early_blight/37957a08-5b06-49f7-9973-29f167dd95b8___RS_Early.B 8758.JPG,test,0,6,True,False
+data/Potato/Valid/Potato___Late_blight/b469e38c-ef99-4ed1-b294-1e65727138fb___RS_LB 4056.JPG,val,1,data/Potato/Test/Potato___Late_blight/74277267-6a9f-44d0-95fe-7f52f89630a0___RS_LB 5074.JPG,test,1,6,True,False
+data/Potato/Valid/Potato___healthy/Potato_healthy-54-_0_550.jpg,val,2,data/Potato/Valid/Potato___healthy/Potato_healthy-54-_0_996.jpg,val,2,6,False,False
+data/Potato/Valid/Potato___healthy/Potato_healthy-55-_0_178.jpg,val,2,data/Potato/Valid/Potato___healthy/Potato_healthy-55-_0_811.jpg,val,2,2,False,False
+data/Potato/Valid/Potato___healthy/Potato_healthy-64-_0_2009.jpg,val,2,data/Potato/Valid/Potato___healthy/Potato_healthy-64-_0_243.jpg,val,2,6,False,False
+data/Potato/Valid/Potato___healthy/Potato_healthy-73-_0_1309.jpg,val,2,data/Potato/Valid/Potato___healthy/Potato_healthy-73-_0_1358.jpg,val,2,6,False,False
+data/Potato/Valid/Potato___healthy/Potato_healthy-74-_0_7197.jpg,val,2,data/Potato/Valid/Potato___healthy/Potato_healthy-74-_0_8041.jpg,val,2,6,False,False
+data/Potato/Test/Potato___Late_blight/30920583-57a6-4cc2-81d6-84879ec3af46___RS_LB 4930.JPG,test,1,data/Potato/Test/Potato___healthy/Potato_healthy-29-_0_9318.jpg,test,2,6,False,True
+data/Potato/Test/Potato___Late_blight/53367bb0-3f38-4c90-a71d-05592341e4aa___RS_LB 4149.JPG,test,1,data/Potato/Test/Potato___healthy/Potato_healthy-33-_0_2978.jpg,test,2,6,False,True
+data/Potato/Test/Potato___healthy/Potato_healthy-34-_0_483.jpg,test,2,data/Potato/Test/Potato___healthy/Potato_healthy-34-_0_8155.jpg,test,2,6,False,False
+data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_3128.jpg,test,2,data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_7909.jpg,test,2,2,False,False
+data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_5909.jpg,test,2,data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_7909.jpg,test,2,6,False,False
+data/Potato/Test/Potato___healthy/Potato_healthy-50-_0_1102.jpg,test,2,data/Potato/Test/Potato___healthy/Potato_healthy-50-_0_9285.jpg,test,2,6,False,False

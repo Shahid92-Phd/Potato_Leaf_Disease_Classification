@@ -1,0 +1,17 @@
+{
+  "train": {
+    "n_samples": 5400,
+    "n_images": 900,
+    "seconds": 55.0
+  },
+  "val": {
+    "n_samples": 300,
+    "n_images": 300,
+    "seconds": 4.9
+  },
+  "test": {
+    "n_samples": 300,
+    "n_images": 300,
+    "seconds": 2.9
+  }
+}

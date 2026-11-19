@@ -1,0 +1,19 @@
+{
+  "protocol": {
+    "aug_copies": 5,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "max_epochs": 100,
+    "patience": 15,
+    "lr_grid": [
+      0.001,
+      0.0001
+    ],
+    "batch": 32
+  }
+}
