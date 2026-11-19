@@ -1,0 +1,301 @@
+path,label,pred,p0,p1,p2
+data/Potato/Test/Potato___Early_blight/034959c1-f1e8-4a79-a6d5-3c1d14efa2f3___RS_Early.B 7136.JPG,0,0,1.0,7.491111e-16,7.2434707e-19
+data/Potato/Test/Potato___Early_blight/042135e2-e126-4900-9212-d42d900b8125___RS_Early.B 8791.JPG,0,0,1.0,1.555073e-19,2.583287e-22
+data/Potato/Test/Potato___Early_blight/0604174e-3018-4faa-9975-0be32d2c0789___RS_Early.B 7123.JPG,0,0,1.0,1.1827093e-09,2.4152028e-10
+data/Potato/Test/Potato___Early_blight/07953ca1-8935-449f-b338-4357ed683b2d___RS_Early.B 6815.JPG,0,0,0.99700564,0.002994406,1.0805709e-11
+data/Potato/Test/Potato___Early_blight/08029ccc-387e-4be6-9389-04f7b82fdb2a___RS_Early.B 9130.JPG,0,0,1.0,1.5256119e-19,1.5449539e-22
+data/Potato/Test/Potato___Early_blight/08194ca3-f0b2-4aaa-8df8-5ec5ddc6696a___RS_Early.B 8151.JPG,0,0,1.0,1.725577e-10,4.0087606e-13
+data/Potato/Test/Potato___Early_blight/08392b44-ecc6-4f38-8566-361b552cfe21___RS_Early.B 7393.JPG,0,0,1.0,4.510932e-08,1.9687462e-11
+data/Potato/Test/Potato___Early_blight/107827b3-faa5-457c-97fd-3e34d2657f6b___RS_Early.B 7162.JPG,0,0,1.0,8.66421e-11,1.4665389e-13
+data/Potato/Test/Potato___Early_blight/109730cd-03f3-4139-a464-5f9151483e8c___RS_Early.B 6738.JPG,0,0,1.0,2.8907975e-20,1.7711554e-23
+data/Potato/Test/Potato___Early_blight/12429fa8-02ea-4017-88ef-b2d219b892f7___RS_Early.B 6916.JPG,0,0,1.0,4.0128554e-16,7.32382e-20
+data/Potato/Test/Potato___Early_blight/12826416-efc5-49d3-b615-731629c95435___RS_Early.B 7215.JPG,0,0,1.0,4.751385e-10,1.0428686e-11
+data/Potato/Test/Potato___Early_blight/16133ed7-f960-44a5-bd03-8e665e777363___RS_Early.B 7504.JPG,0,0,1.0,5.8181765e-14,5.099616e-16
+data/Potato/Test/Potato___Early_blight/17520079-9d7b-481a-bc9e-676c5404d160___RS_Early.B 6774.JPG,0,0,1.0,6.367006e-19,3.0409644e-23
+data/Potato/Test/Potato___Early_blight/17667077-cf29-4976-9282-359c6da25cf6___RS_Early.B 6971.JPG,0,0,1.0,1.9532107e-17,3.8582214e-19
+data/Potato/Test/Potato___Early_blight/17756ec1-9c95-43b3-bedc-933b6e0887f3___RS_Early.B 8251.JPG,0,0,1.0,1.7767628e-11,1.6910435e-13
+data/Potato/Test/Potato___Early_blight/17848019-6609-4cc9-b27b-c70b296ceb09___RS_Early.B 7049.JPG,0,0,1.0,7.6586036e-11,1.347102e-13
+data/Potato/Test/Potato___Early_blight/203357f4-1deb-42b2-99ed-32df34aa166c___RS_Early.B 6780.JPG,0,0,1.0,1.9249214e-21,7.419665e-25
+data/Potato/Test/Potato___Early_blight/20421747-c083-48a1-aed5-b1097ae50491___RS_Early.B 8203.JPG,0,0,1.0,8.956499e-14,1.0352641e-15
+data/Potato/Test/Potato___Early_blight/20978e65-f4d0-419a-bab9-f6042ab2d318___RS_Early.B 6868.JPG,0,0,0.9998938,0.0001018433,4.392707e-06
+data/Potato/Test/Potato___Early_blight/211094c5-4983-49ff-a92e-b992039bd048___RS_Early.B 6927.JPG,0,0,1.0,1.1176892e-15,3.4564972e-18
+data/Potato/Test/Potato___Early_blight/23546e04-7151-4dbd-95a1-687d963eb132___RS_Early.B 7402.JPG,0,0,1.0,2.385982e-13,5.6064592e-14
+data/Potato/Test/Potato___Early_blight/25642761-2905-48af-b8da-1064a0f6b876___RS_Early.B 6831.JPG,0,1,0.24070162,0.6263872,0.13291122
+data/Potato/Test/Potato___Early_blight/25703c4f-ec40-4099-b249-a4fd07b07752___RS_Early.B 7040.JPG,0,0,1.0,1.1557141e-11,1.5593963e-13
+data/Potato/Test/Potato___Early_blight/283134dd-8b32-447e-8e82-547d3b69f4d4___RS_Early.B 7494.JPG,0,0,0.9999993,6.966819e-07,6.1782077e-09
+data/Potato/Test/Potato___Early_blight/29386668-721c-4359-99a6-734f1a4b096b___RS_Early.B 8362.JPG,0,0,1.0,1.5788797e-13,1.5941901e-15
+data/Potato/Test/Potato___Early_blight/29508e75-1a9d-4838-b929-cf42f8638e83___RS_Early.B 6782.JPG,0,0,1.0,2.9318038e-13,1.6005553e-18
+data/Potato/Test/Potato___Early_blight/29922d76-0eda-4e7c-89af-7688c656bfdd___RS_Early.B 8353.JPG,0,0,1.0,2.6739187e-08,1.0551128e-12
+data/Potato/Test/Potato___Early_blight/29978e78-7d4a-4fff-a659-52e45e9b96b3___RS_Early.B 7672.JPG,0,0,1.0,1.594917e-11,3.8485241e-13
+data/Potato/Test/Potato___Early_blight/31290247-3f4f-445d-8bad-20d7dccbf979___RS_Early.B 7019.JPG,0,0,1.0,9.90969e-10,1.1731756e-14
+data/Potato/Test/Potato___Early_blight/33019904-ac3b-4083-a192-ce4092758ddd___RS_Early.B 8344.JPG,0,0,1.0,3.381791e-10,1.2260229e-11
+data/Potato/Test/Potato___Early_blight/349730da-a627-4da6-90d5-707c4a3dba88___RS_Early.B 7553.JPG,0,0,0.9984529,0.0015460071,1.0376613e-06
+data/Potato/Test/Potato___Early_blight/357426c8-5b7b-4d56-9cb0-13cfaecc219f___RS_Early.B 7326.JPG,0,0,1.0,1.366847e-17,8.5703505e-21
+data/Potato/Test/Potato___Early_blight/36548ca6-33b3-4a74-9b2a-52eba7aee9a3___RS_Early.B 9205.JPG,0,0,1.0,1.2258362e-18,9.1804754e-23
+data/Potato/Test/Potato___Early_blight/3682433d-fb0a-495b-a6e8-d753542b042b___RS_Early.B 8189.JPG,0,0,1.0,1.2362247e-09,1.5013641e-11
+data/Potato/Test/Potato___Early_blight/37471260-d7b4-4ccd-901e-974332ef2eb9___RS_Early.B 7967.JPG,0,0,1.0,1.3714343e-11,9.7304624e-14
+data/Potato/Test/Potato___Early_blight/37957a08-5b06-49f7-9973-29f167dd95b8___RS_Early.B 8758.JPG,0,0,1.0,2.0458076e-17,3.3109052e-19
+data/Potato/Test/Potato___Early_blight/38757e70-6278-4961-b1f3-19fccbb085f5___RS_Early.B 6968.JPG,0,0,1.0,6.920892e-13,1.0348919e-17
+data/Potato/Test/Potato___Early_blight/38807f81-ce49-4978-916a-a6cd2a95bfb0___RS_Early.B 8397.JPG,0,0,0.99999964,3.8684345e-07,1.7876543e-10
+data/Potato/Test/Potato___Early_blight/419611a4-5597-43d6-ae92-c3c09bc549d7___RS_Early.B 7182.JPG,0,0,1.0,2.0830716e-10,2.2945515e-12
+data/Potato/Test/Potato___Early_blight/42148e3c-34d6-484e-a4b8-8dc037667a4c___RS_Early.B 8235.JPG,0,0,1.0,7.980177e-13,4.796314e-16
+data/Potato/Test/Potato___Early_blight/4217355a-471b-4045-9199-55003f2c9b99___RS_Early.B 7469.JPG,0,0,1.0,3.511829e-13,1.7689952e-15
+data/Potato/Test/Potato___Early_blight/438176fc-2e4a-45d1-9014-3eb2391c5832___RS_Early.B 8147.JPG,0,0,1.0,4.563909e-14,6.599393e-16
+data/Potato/Test/Potato___Early_blight/454203b9-0376-4db3-92ed-047545daa7c6___RS_Early.B 6953.JPG,0,0,1.0,3.9471255e-19,5.44386e-23
+data/Potato/Test/Potato___Early_blight/467991cb-4b55-4b00-9b18-7ff5efdd7adf___RS_Early.B 7290.JPG,0,0,1.0,1.4078913e-10,8.335687e-12
+data/Potato/Test/Potato___Early_blight/46819687-0705-4628-8748-9cb356587f30___RS_Early.B 8421.JPG,0,0,1.0,1.0167683e-13,3.7549298e-17
+data/Potato/Test/Potato___Early_blight/4857420e-b28e-4bb5-aa03-5e333cf27af0___RS_Early.B 6847.JPG,0,0,0.9951461,0.0011702956,0.0036835806
+data/Potato/Test/Potato___Early_blight/510146c8-7368-4acc-847d-523f55b3d424___RS_Early.B 6678.JPG,0,0,1.0,1.7870149e-24,8.999491e-27
+data/Potato/Test/Potato___Early_blight/520475a1-5acf-433f-a306-cff6ec1a99ef___RS_Early.B 9159.JPG,0,0,0.99976,0.00023965203,3.9945698e-07
+data/Potato/Test/Potato___Early_blight/524142aa-78fb-4fab-895c-ddb993d07479___RS_Early.B 7435.JPG,0,0,1.0,3.7473622e-12,3.9257055e-15
+data/Potato/Test/Potato___Early_blight/53257270-67b3-4408-aaec-abbd9f5f19f0___RS_Early.B 7212.JPG,0,0,1.0,5.4648137e-11,1.2462798e-12
+data/Potato/Test/Potato___Early_blight/54260e42-8e3f-44c2-b252-c784391ce639___RS_Early.B 7508.JPG,0,0,1.0,1.2566662e-11,1.0951402e-13
+data/Potato/Test/Potato___Early_blight/569206bf-423e-4508-b1b4-2ca6821aceac___RS_Early.B 7554.JPG,0,0,0.9999981,1.9447757e-06,8.726462e-09
+data/Potato/Test/Potato___Early_blight/5755142f-0cba-45b7-a563-beb1bf6db374___RS_Early.B 8321.JPG,0,0,1.0,6.679389e-12,1.7996233e-16
+data/Potato/Test/Potato___Early_blight/585062b6-d5a4-4677-8b7f-773257399423___RS_Early.B 8558.JPG,0,0,1.0,1.0133811e-11,1.033119e-13
+data/Potato/Test/Potato___Early_blight/59676e33-8884-4359-83d9-e07df07f31a1___RS_Early.B 7041.JPG,0,0,1.0,5.6710903e-09,3.4851545e-11
+data/Potato/Test/Potato___Early_blight/60096f66-1bf2-4d8d-8137-ac2358ab71d0___RS_Early.B 6978.JPG,0,0,1.0,2.7763914e-16,1.628615e-19
+data/Potato/Test/Potato___Early_blight/60418916-8278-448a-af45-21ee8ef60a95___RS_Early.B 7957.JPG,0,0,1.0,2.011517e-18,1.1309469e-21
+data/Potato/Test/Potato___Early_blight/62490062-4c67-4caf-bec5-df1342ec2987___RS_Early.B 7946.JPG,0,0,1.0,9.342134e-16,1.38721224e-17
+data/Potato/Test/Potato___Early_blight/6319585f-ed2f-4657-ae79-a23db65d0fce___RS_Early.B 7033.JPG,0,0,1.0,9.664693e-13,1.0636178e-15
+data/Potato/Test/Potato___Early_blight/655010d0-0bf7-4cba-8ebe-591a8bc5f552___RS_Early.B 7668.JPG,0,0,1.0,3.1333861e-12,1.550904e-13
+data/Potato/Test/Potato___Early_blight/66642302-1334-4c23-8613-f98387352360___RS_Early.B 8766.JPG,0,0,0.6278622,0.37213778,1.4239235e-09
+data/Potato/Test/Potato___Early_blight/66785df0-db24-4c3d-821b-8ab94e7e6a06___RS_Early.B 7086.JPG,0,0,0.9999999,1.4675658e-07,2.9337448e-09
+data/Potato/Test/Potato___Early_blight/67468907-b28a-4740-a9f4-ce69b93878c9___RS_Early.B 7142.JPG,0,0,1.0,1.216623e-08,1.4853297e-09
+data/Potato/Test/Potato___Early_blight/677662b1-2c4e-4d93-b4fd-950815b9d2c8___RS_Early.B 8813.JPG,0,0,1.0,1.1236244e-12,4.9825334e-14
+data/Potato/Test/Potato___Early_blight/68662e76-300e-49f6-8467-27dd63aa18ed___RS_Early.B 7163.JPG,0,0,1.0,3.0930944e-10,2.841855e-14
+data/Potato/Test/Potato___Early_blight/686938d8-5fcc-4482-850f-0e8720206046___RS_Early.B 7769.JPG,0,0,1.0,1.2630163e-20,3.9428587e-23
+data/Potato/Test/Potato___Early_blight/691161ad-7897-4654-a7bc-14d8b5839621___RS_Early.B 6976.JPG,0,0,1.0,2.0851891e-11,2.2777788e-14
+data/Potato/Test/Potato___Early_blight/7227b3db-c212-4370-8b42-443eea1577aa___RS_Early.B 7306.JPG,0,0,0.9999995,5.0038534e-07,3.0929734e-11
+data/Potato/Test/Potato___Early_blight/7248171d-98a5-4bf0-9a8d-5c5a8820eba9___RS_Early.B 6680.JPG,0,0,1.0,7.393327e-19,1.925362e-21
+data/Potato/Test/Potato___Early_blight/74316ef6-7cce-4ed9-8fbf-9bf42d14657c___RS_Early.B 7352.JPG,0,0,1.0,3.5766503e-09,5.356292e-12
+data/Potato/Test/Potato___Early_blight/7456db33-766c-4a68-b924-ddf69d579981___RS_Early.B 6723.JPG,0,0,1.0,2.2488955e-09,1.9785638e-11
+data/Potato/Test/Potato___Early_blight/7486e823-64f7-4e43-ab51-26261b077fc2___RS_Early.B 6785.JPG,0,0,1.0,2.1889237e-21,1.1206133e-23
+data/Potato/Test/Potato___Early_blight/7584a5b8-b701-4255-9dde-a60b6442cc37___RS_Early.B 9154.JPG,0,0,0.9999994,6.047824e-07,2.7872662e-09
+data/Potato/Test/Potato___Early_blight/77725a5a-c0b8-4b7c-bc42-ac99f51428c1___RS_Early.B 7401.JPG,0,0,1.0,3.943654e-09,6.2865474e-10
+data/Potato/Test/Potato___Early_blight/7795f733-eeb0-4353-bdb8-b2f4d8d622d4___RS_Early.B 6960.JPG,0,0,1.0,2.441385e-10,1.8734014e-12
+data/Potato/Test/Potato___Early_blight/78071f69-3d02-4576-bd46-28732dd528aa___RS_Early.B 9228.JPG,0,0,1.0,4.736988e-10,1.0725289e-14
+data/Potato/Test/Potato___Early_blight/78313ae7-3589-4d23-a5b6-0457e500bd1a___RS_Early.B 6768.JPG,0,0,1.0,3.597351e-10,3.760655e-14
+data/Potato/Test/Potato___Early_blight/7855ccc3-28ac-4269-a8ce-618df8a27573___RS_Early.B 7834.JPG,0,0,1.0,1.18027605e-08,2.8362694e-12
+data/Potato/Test/Potato___Early_blight/8002c1e4-0066-4764-9ed5-52d8334cd5c6___RS_Early.B 7855.JPG,0,0,1.0,4.0950078e-12,1.2090947e-13
+data/Potato/Test/Potato___Early_blight/8081f3a1-d992-43bf-afa4-402ed06a83b1___RS_Early.B 6860.JPG,0,0,0.9999999,1.7817837e-07,2.3216972e-11
+data/Potato/Test/Potato___Early_blight/82048f32-5a2c-491c-8771-109a1024fd5a___RS_Early.B 8199.JPG,0,0,1.0,7.411394e-09,2.5976584e-12
+data/Potato/Test/Potato___Early_blight/8435fd63-0136-44f9-8dd4-6ca27bcddd97___RS_Early.B 7017.JPG,0,0,1.0,6.997492e-17,5.447171e-20
+data/Potato/Test/Potato___Early_blight/84546db4-ea7c-4357-bf3d-6afcae9a05bf___RS_Early.B 7637.JPG,0,0,1.0,5.442673e-09,2.1936462e-10
+data/Potato/Test/Potato___Early_blight/848336c4-eaad-47e7-8458-5e80d5520d05___RS_Early.B 7729.JPG,0,0,1.0,6.959386e-13,2.7129883e-15
+data/Potato/Test/Potato___Early_blight/8493b49f-1b73-4d5c-b6f9-ae9a41091643___RS_Early.B 6720.JPG,0,0,1.0,3.3131516e-13,1.794836e-18
+data/Potato/Test/Potato___Early_blight/85626b40-beca-4bc0-90ed-fc6090c6b18e___RS_Early.B 8598.JPG,0,0,1.0,1.7148585e-13,4.3776496e-17
+data/Potato/Test/Potato___Early_blight/8636092c-9357-4b4c-9d2d-c45c3dcf9253___RS_Early.B 7981.JPG,0,0,1.0,9.345647e-12,5.631699e-14
+data/Potato/Test/Potato___Early_blight/8784362f-5fc6-4ad9-b11d-d06b272cefb5___RS_Early.B 6907.JPG,0,0,1.0,1.9537934e-08,7.231287e-10
+data/Potato/Test/Potato___Early_blight/887347a3-ee1c-4141-a423-ffe050dd246e___RS_Early.B 7851.JPG,0,0,1.0,2.5688865e-10,2.8186292e-12
+data/Potato/Test/Potato___Early_blight/89273b26-09d5-4bf7-a6a5-22c47a613b93___RS_Early.B 7383.JPG,0,0,1.0,8.324382e-14,1.7461927e-15
+data/Potato/Test/Potato___Early_blight/8994b76b-6e1e-42d3-b07c-99abca3fa35b___RS_Early.B 7762.JPG,0,0,1.0,1.7369214e-08,2.1679754e-12
+data/Potato/Test/Potato___Early_blight/900514b4-8768-4370-bc53-998e390644db___RS_Early.B 7788.JPG,0,0,1.0,3.5594883e-08,2.0393223e-12
+data/Potato/Test/Potato___Early_blight/904770c5-2c05-43a1-a4d7-bccb5eafe1b7___RS_Early.B 7129.JPG,0,0,1.0,5.106473e-14,6.6267384e-16
+data/Potato/Test/Potato___Early_blight/906218cf-65e8-4713-841f-01707a9dd20c___RS_Early.B 7270.JPG,0,0,1.0,4.2886904e-24,5.134699e-29
+data/Potato/Test/Potato___Early_blight/9125d133-5b86-4363-8fbe-79c813ac8795___RS_Early.B 6748.JPG,0,0,0.99999905,9.657444e-07,3.272918e-10
+data/Potato/Test/Potato___Early_blight/9141a8b4-6144-446d-b71d-925bcd432840___RS_Early.B 8648.JPG,0,0,1.0,3.7707973e-10,3.928805e-12
+data/Potato/Test/Potato___Early_blight/92757a8e-b68a-45b3-9d70-0281c8ea90ca___RS_Early.B 7199.JPG,0,0,1.0,1.7588124e-10,2.699699e-13
+data/Potato/Test/Potato___Early_blight/93701beb-c734-41ea-a5ef-9e5ca4728dfc___RS_Early.B 6885.JPG,0,1,0.4894742,0.50787306,0.0026527394
+data/Potato/Test/Potato___Early_blight/9541d815-f209-4f13-892e-ca4e97ae5d8e___RS_Early.B 8981.JPG,0,0,1.0,1.3209724e-11,5.78913e-14
+data/Potato/Test/Potato___Early_blight/9846eead-9fc1-4c35-8b63-1adfbdf0b118___RS_Early.B 8325.JPG,0,0,1.0,1.1469148e-11,3.1884364e-15
+data/Potato/Test/Potato___Late_blight/00695906-210d-4a9d-822e-986a17384115___RS_LB 4026.JPG,1,1,6.279355e-06,0.9999424,5.1290626e-05
+data/Potato/Test/Potato___Late_blight/02212653-e92b-49aa-96b7-9497af51e502___RS_LB 3151.JPG,1,1,3.029786e-11,1.0,7.77133e-12
+data/Potato/Test/Potato___Late_blight/031672c9-bf0a-46bf-8b52-d7cdc067612e___RS_LB 5019.JPG,1,1,4.746264e-07,0.9999521,4.7398822e-05
+data/Potato/Test/Potato___Late_blight/0441138d-5f9f-4ede-ab9a-49edabc605b3___RS_LB 4235.JPG,1,2,0.00019363713,0.46713915,0.5326673
+data/Potato/Test/Potato___Late_blight/0450570b-44d1-4290-956d-5d970164a2e2___RS_LB 5160.JPG,1,1,3.50943e-14,1.0,4.474325e-12
+data/Potato/Test/Potato___Late_blight/051089cf-e083-4fdb-9256-aac12b8a55d2___RS_LB 4078.JPG,1,1,7.073998e-13,1.0,3.8811693e-11
+data/Potato/Test/Potato___Late_blight/05817623-2c4e-4517-88a1-fe81b9a73742___RS_LB 3920.JPG,1,1,5.4396296e-06,0.99999225,2.2606312e-06
+data/Potato/Test/Potato___Late_blight/09287918-9f73-4707-823f-f4331f5114a3___RS_LB 2604.JPG,1,1,1.3914561e-19,1.0,3.0090558e-17
+data/Potato/Test/Potato___Late_blight/127521ec-3cc5-4f98-ac73-ad561ec29e73___RS_LB 3219.JPG,1,1,8.8803e-20,1.0,1.7977591e-21
+data/Potato/Test/Potato___Late_blight/145216a1-aab7-4f40-851d-a56c436ad0e3___RS_LB 2715.JPG,1,2,1.5490107e-11,4.30327e-08,1.0
+data/Potato/Test/Potato___Late_blight/14691d2b-446b-4f0e-921b-60d3b76cbf03___RS_LB 2518.JPG,1,1,0.0002289723,0.9965307,0.0032403746
+data/Potato/Test/Potato___Late_blight/1531198a-c611-47ee-af7d-7b124b863870___RS_LB 4793.JPG,1,1,0.0018557183,0.9972882,0.0008560451
+data/Potato/Test/Potato___Late_blight/1650365d-437c-4d36-b110-113a88c1090a___RS_LB 5459.JPG,1,1,0.43936795,0.56062645,5.622538e-06
+data/Potato/Test/Potato___Late_blight/17515ff9-075f-45a2-b8e6-1b8ba25c293d___RS_LB 4980.JPG,1,1,3.2717828e-05,0.9999671,1.3041411e-07
+data/Potato/Test/Potato___Late_blight/19323229-6fdc-4231-bd3e-a46ddcff2111___RS_LB 3196.JPG,1,1,5.1774354e-09,0.99967825,0.0003217542
+data/Potato/Test/Potato___Late_blight/19393f68-e96c-4c93-b4d1-39e1c54e53b1___RS_LB 4051.JPG,1,1,3.8402295e-11,0.9999968,3.262979e-06
+data/Potato/Test/Potato___Late_blight/201186ce-cec5-47ef-9f88-bd8c4abab2c8___RS_LB 2813.JPG,1,1,3.8596595e-10,0.9999943,5.736197e-06
+data/Potato/Test/Potato___Late_blight/20880dc9-069c-40e5-81be-6d6e33f9519c___RS_LB 4098.JPG,1,1,1.1310768e-06,0.9999871,1.1745249e-05
+data/Potato/Test/Potato___Late_blight/2122118e-02ee-452b-864c-adf36ed5ce9c___RS_LB 2890.JPG,1,1,2.3154136e-10,0.9999995,4.8214474e-07
+data/Potato/Test/Potato___Late_blight/24482fe2-5139-4f73-909e-9ea4a3d8bf5d___RS_LB 4733.JPG,1,1,5.802472e-10,0.99999976,2.5164465e-07
+data/Potato/Test/Potato___Late_blight/2565077d-44d3-4213-82c2-bf5ae9a64368___RS_LB 3295.JPG,1,1,0.02439164,0.975608,3.6416603e-07
+data/Potato/Test/Potato___Late_blight/25978f86-dca7-4052-bf6b-7d14ce0438ad___RS_LB 5016.JPG,1,1,8.597609e-10,1.0,4.0589097e-09
+data/Potato/Test/Potato___Late_blight/2846161c-9ac0-4ef3-b563-aee344dac80d___RS_LB 4851.JPG,1,1,3.7928584e-12,1.0,2.4273566e-11
+data/Potato/Test/Potato___Late_blight/30777af4-cbb4-44bf-946b-f1c5d17704ee___RS_LB 4822.JPG,1,1,7.245447e-06,0.9999925,2.2440223e-07
+data/Potato/Test/Potato___Late_blight/30920583-57a6-4cc2-81d6-84879ec3af46___RS_LB 4930.JPG,1,2,6.6002594e-06,0.09063081,0.9093626
+data/Potato/Test/Potato___Late_blight/319335dc-6a48-4fe4-932b-326f1455f3cd___RS_LB 4703.JPG,1,1,0.001940849,0.9980584,6.9258124e-07
+data/Potato/Test/Potato___Late_blight/326919e6-16b9-442b-ada3-e4c37b3ab8ef___RS_LB 3187.JPG,1,1,5.6634296e-19,1.0,7.5900216e-19
+data/Potato/Test/Potato___Late_blight/33551627-5824-42b9-9547-4df44590fee1___RS_LB 4848.JPG,1,1,1.8771805e-10,1.0,1.0218319e-11
+data/Potato/Test/Potato___Late_blight/33938ff2-ee2c-4571-96dd-6229a0cb4e0c___RS_LB 5184.JPG,1,1,2.8886103e-07,0.9999862,1.3554703e-05
+data/Potato/Test/Potato___Late_blight/350662fe-0ebf-4e6b-9ff9-6ceaf9d22067___RS_LB 3877.JPG,1,1,4.660628e-06,0.9999467,4.8606606e-05
+data/Potato/Test/Potato___Late_blight/351386f8-c501-45f6-ab0d-e9c1d1584204___RS_LB 5195.JPG,1,1,1.0076612e-05,0.99998987,9.381714e-09
+data/Potato/Test/Potato___Late_blight/35621849-08fd-442a-a94e-139b2657106e___RS_LB 4055.JPG,1,1,1.0961158e-09,0.99999964,3.944518e-07
+data/Potato/Test/Potato___Late_blight/36555aa6-0ca3-412c-be9f-50f12500861f___RS_LB 3907.JPG,1,1,1.0554243e-09,1.0,6.7069097e-09
+data/Potato/Test/Potato___Late_blight/37075adc-dd51-4a5b-8a6c-0649cb98516b___RS_LB 2678.JPG,1,1,4.1305422e-20,1.0,1.020536e-16
+data/Potato/Test/Potato___Late_blight/40285dce-33de-4a59-82f4-2eb1d6d38469___RS_LB 4929.JPG,1,1,2.8265745e-09,1.0,1.3238693e-09
+data/Potato/Test/Potato___Late_blight/4043044d-1e8d-4861-9152-99660fdffa9e___RS_LB 4438.JPG,1,1,8.0845754e-23,1.0,6.3151144e-21
+data/Potato/Test/Potato___Late_blight/42451eb3-fb45-4b9a-8dd3-c9b9aa3a29c8___RS_LB 4340.JPG,1,1,2.5757146e-11,1.0,1.131886e-09
+data/Potato/Test/Potato___Late_blight/43396f0d-f05b-4dce-a209-9edcbd62d39c___RS_LB 4407.JPG,1,1,7.043923e-12,1.0,5.939959e-11
+data/Potato/Test/Potato___Late_blight/437640c6-1680-4d1b-aa0b-c1dd52aa13a5___RS_LB 4926.JPG,1,1,3.3397172e-09,1.0,1.1101887e-08
+data/Potato/Test/Potato___Late_blight/44112cb9-7423-4983-bb9a-cb32e3ea9ac3___RS_LB 2793.JPG,1,1,1.0125007e-10,1.0,5.080464e-11
+data/Potato/Test/Potato___Late_blight/44722935-fb60-4ecf-8503-f8258aa4e3e7___RS_LB 3225.JPG,1,1,4.8313093e-18,1.0,5.827369e-15
+data/Potato/Test/Potato___Late_blight/465165a0-33c0-4593-8324-03513e71079d___RS_LB 4445.JPG,1,1,2.5375914e-06,0.99991536,8.2094055e-05
+data/Potato/Test/Potato___Late_blight/465669d7-b75c-4aab-8ccc-af3566baf2e3___RS_LB 4985.JPG,1,1,2.7738378e-10,1.0,4.3907395e-08
+data/Potato/Test/Potato___Late_blight/468629f7-6ca2-4823-9a39-d42b4d92c4bb___RS_LB 5312.JPG,1,1,8.107944e-07,0.9999982,9.4725596e-07
+data/Potato/Test/Potato___Late_blight/489107b2-13f2-401b-b931-39ca7fd4be2b___RS_LB 2665.JPG,1,1,6.910171e-16,1.0,8.274329e-14
+data/Potato/Test/Potato___Late_blight/49835c13-105d-4afb-95dd-b4ee15f3d287___RS_LB 4099.JPG,1,1,6.347229e-07,0.9999994,1.6697555e-08
+data/Potato/Test/Potato___Late_blight/516099d5-5399-4d6e-916d-014a84a02a18___RS_LB 4118.JPG,1,1,4.1851536e-07,0.9999864,1.3200958e-05
+data/Potato/Test/Potato___Late_blight/523537e5-5795-40f6-ad49-9394aeca3f2e___RS_LB 3848.JPG,1,1,1.4581664e-06,0.99998164,1.6849539e-05
+data/Potato/Test/Potato___Late_blight/5318452f-222d-4abc-b39c-55fa6c26a82a___RS_LB 3063.JPG,1,1,3.8306027e-21,1.0,3.5617318e-18
+data/Potato/Test/Potato___Late_blight/53367bb0-3f38-4c90-a71d-05592341e4aa___RS_LB 4149.JPG,1,1,0.00085915084,0.9350615,0.064079374
+data/Potato/Test/Potato___Late_blight/541591d3-3560-4540-ac2c-9749936e80ae___RS_LB 2553.JPG,1,1,3.1144187e-17,1.0,4.4301496e-16
+data/Potato/Test/Potato___Late_blight/5576794b-902c-4df2-ae8d-da30faa37d5d___RS_LB 4443.JPG,1,1,7.864193e-09,1.0,1.8535714e-09
+data/Potato/Test/Potato___Late_blight/55987838-6174-4182-be76-78ddd50890fb___RS_LB 4714.JPG,1,1,1.9234401e-12,1.0,1.1016779e-11
+data/Potato/Test/Potato___Late_blight/5674826f-aeb6-4142-809e-ea9e4fd391c3___RS_LB 2940.JPG,1,1,5.96066e-11,1.0,7.1293063e-12
+data/Potato/Test/Potato___Late_blight/57462a7c-a8f4-4b99-b312-a8b6e6a0e6f0___RS_LB 5330.JPG,1,1,9.634625e-12,1.0,4.033611e-13
+data/Potato/Test/Potato___Late_blight/57980690-2488-4715-ae89-84e84d17ee10___RS_LB 3978.JPG,1,2,0.00021314084,0.058945864,0.940841
+data/Potato/Test/Potato___Late_blight/58334b81-9aab-4b5c-b655-f7078a81135b___RS_LB 3846.JPG,1,1,6.377326e-15,1.0,1.2297619e-13
+data/Potato/Test/Potato___Late_blight/58475c1a-a4c2-43bd-b361-60523b5c62d2___RS_LB 3912.JPG,1,1,1.3634668e-10,1.0,1.0314218e-09
+data/Potato/Test/Potato___Late_blight/600100de-8374-4ddd-a816-318235e27948___RS_LB 2895.JPG,1,1,6.7027364e-14,1.0,5.758713e-10
+data/Potato/Test/Potato___Late_blight/60463ced-752c-4af3-9082-1de380c572e4___RS_LB 2580.JPG,1,1,5.5309542e-08,0.9999685,3.135998e-05
+data/Potato/Test/Potato___Late_blight/629303c0-a89e-4f67-9ac8-aa769cf3a163___RS_LB 3945.JPG,1,1,6.078875e-08,0.9998672,0.00013276983
+data/Potato/Test/Potato___Late_blight/63490f84-88b0-4105-bb76-23990e98c692___RS_LB 3041.JPG,1,1,1.9271095e-11,1.0,5.2995114e-10
+data/Potato/Test/Potato___Late_blight/6522615a-cbe1-4770-a137-25a2c081e1d9___RS_LB 2917.JPG,1,1,2.7876455e-20,1.0,5.6072e-17
+data/Potato/Test/Potato___Late_blight/66473aff-3438-4a8c-8c05-5fed8a4255ae___RS_LB 4473.JPG,1,1,1.069144e-05,0.9999893,8.6801333e-10
+data/Potato/Test/Potato___Late_blight/668455c6-f7cf-4dc3-a4a8-858e7d4b55c9___RS_LB 3878.JPG,1,1,7.334247e-09,0.9999999,1.4299472e-07
+data/Potato/Test/Potato___Late_blight/67001c81-d182-4bc6-b9b8-f25ddb0a2db4___RS_LB 5231.JPG,1,1,1.38403395e-08,1.0,5.928239e-09
+data/Potato/Test/Potato___Late_blight/68882ae5-79b6-4681-9e06-af8ae5999779___RS_LB 3952.JPG,1,1,3.096007e-12,1.0,1.4980296e-10
+data/Potato/Test/Potato___Late_blight/7153262e-7692-441e-9677-056a349d62b8___RS_LB 4813.JPG,1,1,2.9114585e-13,1.0,9.336733e-13
+data/Potato/Test/Potato___Late_blight/716325d9-fca6-46b4-8f5a-f6729c211200___RS_LB 3958.JPG,1,1,0.032218862,0.9677306,5.0521427e-05
+data/Potato/Test/Potato___Late_blight/72485a02-60b9-424a-ba1f-de8078b07176___RS_LB 3148.JPG,1,1,8.236755e-11,1.0,3.6536596e-10
+data/Potato/Test/Potato___Late_blight/73366261-64f3-4219-a43a-97cda85474a9___RS_LB 3332.JPG,1,1,3.6355465e-07,0.9999982,1.4388893e-06
+data/Potato/Test/Potato___Late_blight/74277267-6a9f-44d0-95fe-7f52f89630a0___RS_LB 5074.JPG,1,1,0.00017584747,0.999824,1.3940738e-07
+data/Potato/Test/Potato___Late_blight/764311f2-6fd3-424d-aabc-9ad013a41997___RS_LB 3136.JPG,1,1,6.446839e-08,0.9999999,1.2024098e-08
+data/Potato/Test/Potato___Late_blight/77164347-18bd-4466-aca9-0f61e6a36468___RS_LB 4155.JPG,1,1,7.258039e-10,1.0,7.352214e-10
+data/Potato/Test/Potato___Late_blight/7774658c-0dcb-4b7c-a1fa-573de03373dd___RS_LB 3135.JPG,1,1,5.967382e-11,1.0,7.0589593e-12
+data/Potato/Test/Potato___Late_blight/815516f8-6fb1-4f92-bdff-63349e5ee83f___RS_LB 3237.JPG,1,1,2.0563996e-19,1.0,2.363819e-16
+data/Potato/Test/Potato___Late_blight/82967117-2bcc-4949-b060-738e7b66b755___RS_LB 4744.JPG,1,1,9.280854e-08,0.9999894,1.0573818e-05
+data/Potato/Test/Potato___Late_blight/84559c6d-0589-4d8d-8fc3-a818b067f85c___RS_LB 4608.JPG,1,1,6.2970195e-15,1.0,4.876482e-13
+data/Potato/Test/Potato___Late_blight/8829e413-5a7a-4680-b873-e71dfa9dbfe4___RS_LB 3974.JPG,1,2,4.058126e-09,5.0873274e-07,0.9999995
+data/Potato/Test/Potato___Late_blight/9001b18c-b659-4c56-9dfb-0d0bf64a7b4a___RS_LB 4987.JPG,1,1,6.739428e-05,0.99992037,1.2242303e-05
+data/Potato/Test/Potato___Late_blight/9009c86e-1205-4694-b0bb-ef7cf78dd104___RS_LB 3995.JPG,1,1,4.6725545e-06,0.9999924,2.8972597e-06
+data/Potato/Test/Potato___Late_blight/90302aa5-644e-4857-b60f-92f6aed488fa___RS_LB 3246.JPG,1,1,2.4072942e-12,1.0,1.6474908e-09
+data/Potato/Test/Potato___Late_blight/9032d569-294e-4b8b-a70f-ecff949e43e2___RS_LB 3998.JPG,1,1,1.2556337e-06,0.9999317,6.7045854e-05
+data/Potato/Test/Potato___Late_blight/90596f7b-1efa-4595-8d57-bcbd4c48253f___RS_LB 4753.JPG,1,1,4.471245e-08,0.9999999,1.3274789e-07
+data/Potato/Test/Potato___Late_blight/908546cd-34b8-4502-ab09-0c5bb7c1d87b___RS_LB 4912.JPG,1,1,0.0018185503,0.9981179,6.351269e-05
+data/Potato/Test/Potato___Late_blight/910139a3-cd42-4adc-a24b-3602fd4de7d3___RS_LB 4415.JPG,1,1,8.891521e-06,0.9999683,2.2805425e-05
+data/Potato/Test/Potato___Late_blight/9157168d-8377-4a75-8dc2-d7c951efeb55___RS_LB 4978.JPG,1,1,8.278924e-06,0.99999034,1.426853e-06
+data/Potato/Test/Potato___Late_blight/919150bd-372b-44e0-a70e-a13e60dccbce___RS_LB 3263.JPG,1,1,1.0763816e-14,1.0,2.971877e-14
+data/Potato/Test/Potato___Late_blight/9254f86d-5d83-4217-a7f5-84d08e1b93ee___RS_LB 4037.JPG,1,1,5.2055222e-09,0.99999964,3.2207208e-07
+data/Potato/Test/Potato___Late_blight/93935af4-3aae-4dd6-90d9-fb28e439faf0___RS_LB 3299.JPG,1,0,0.5718847,0.42809856,1.6780683e-05
+data/Potato/Test/Potato___Late_blight/9475f5bf-607b-4091-8a6d-8f09921478a7___RS_LB 5191.JPG,1,1,3.3094935e-10,1.0,5.954251e-11
+data/Potato/Test/Potato___Late_blight/9570095c-02e9-497b-bec1-4e526f3462e5___RS_LB 2815.JPG,1,1,6.8378725e-08,0.99999535,4.577017e-06
+data/Potato/Test/Potato___Late_blight/95816fab-df6d-4730-8f52-4b64aac47e3d___RS_LB 3056.JPG,1,1,2.7670748e-17,1.0,2.9963004e-14
+data/Potato/Test/Potato___Late_blight/9631fd8f-244c-4047-98e4-aecc907624c1___RS_LB 4573.JPG,1,1,2.2635894e-07,0.99999976,4.748553e-08
+data/Potato/Test/Potato___Late_blight/96879d98-11ca-40c7-9708-9ca8f235f407___RS_LB 2739.JPG,1,1,8.089371e-12,1.0,2.8690692e-11
+data/Potato/Test/Potato___Late_blight/974344ba-438f-4190-b71c-875924190fdc___RS_LB 3866.JPG,1,2,0.00022488703,0.12687272,0.87290245
+data/Potato/Test/Potato___Late_blight/990428a4-bfa8-450d-a755-fade1df0a214___RS_LB 4082.JPG,1,1,1.8162315e-07,0.9999989,9.2669205e-07
+data/Potato/Test/Potato___Late_blight/9933b288-b5fe-4cbf-a9fa-58ef769b6f7c___RS_LB 2540.JPG,1,1,3.8878598e-11,1.0,5.376981e-11
+data/Potato/Test/Potato___Late_blight/9934bde8-1c89-4ba6-95e6-015a69540873___RS_LB 4146.JPG,1,1,1.4415924e-06,0.9999982,3.235305e-07
+data/Potato/Test/Potato___Late_blight/9996efa6-219d-4f07-aa12-dc8ca40609b9___RS_LB 2840.JPG,1,1,2.876248e-07,0.9999937,6.0311527e-06
+data/Potato/Test/Potato___healthy/Potato_healthy-26-_0_4635.jpg,2,2,1.7522593e-14,9.054043e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-26-_0_6502.jpg,2,2,5.434255e-11,1.9027382e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-26-_0_8117.jpg,2,2,1.6844878e-15,4.641637e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-26-_0_9285.jpg,2,2,3.625826e-15,7.789442e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-27-_0_1057.jpg,2,2,8.786286e-13,8.4398116e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-27-_0_202.jpg,2,2,8.1476326e-10,5.9789095e-08,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-27-_0_3311.jpg,2,2,1.1512215e-11,7.173084e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-27-_0_9917.jpg,2,2,1.6496769e-12,8.205915e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-28-_0_5194.jpg,2,2,1.5918771e-12,4.7600517e-12,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-28-_0_8369.jpg,2,2,5.7690415e-12,1.01004665e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-28-_0_8545.jpg,2,2,1.3874487e-12,8.70107e-12,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-28-_0_9271.jpg,2,2,1.1328044e-12,1.0145028e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-29-_0_522.jpg,2,2,1.3020048e-10,2.1236217e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-29-_0_5436.jpg,2,2,5.738609e-12,2.333529e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-29-_0_90.jpg,2,2,3.0045786e-12,1.0353768e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-29-_0_9318.jpg,2,2,2.3381403e-11,1.9371149e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-30-_0_3335.jpg,2,2,4.1252703e-11,1.2898732e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-30-_0_5073.jpg,2,2,1.15006324e-10,5.9430894e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-30-_0_563.jpg,2,2,4.979779e-10,2.123165e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-30-_0_7912.jpg,2,2,5.1937964e-11,7.9918416e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-31-_0_2766.jpg,2,2,3.143772e-10,1.1594149e-06,0.9999988
+data/Potato/Test/Potato___healthy/Potato_healthy-31-_0_8340.jpg,2,2,1.197884e-16,4.7879283e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-31-_0_839.jpg,2,2,1.5024728e-11,7.861794e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-31-_0_9178.jpg,2,2,3.8391343e-12,2.1718527e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-32-_0_2382.jpg,2,2,7.04826e-09,1.05133864e-07,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-32-_0_2740.jpg,2,2,3.132615e-08,1.992713e-07,0.99999976
+data/Potato/Test/Potato___healthy/Potato_healthy-32-_0_4295.jpg,2,2,6.6739185e-06,4.1408744e-05,0.99995196
+data/Potato/Test/Potato___healthy/Potato_healthy-32-_0_7410.jpg,2,2,4.6679677e-08,1.6305873e-06,0.99999833
+data/Potato/Test/Potato___healthy/Potato_healthy-33-_0_2978.jpg,2,2,0.0001672699,0.0029995735,0.99683315
+data/Potato/Test/Potato___healthy/Potato_healthy-33-_0_4762.jpg,2,2,9.9057615e-05,0.000591484,0.9993094
+data/Potato/Test/Potato___healthy/Potato_healthy-33-_0_8005.jpg,2,2,0.012018152,0.16963662,0.8183452
+data/Potato/Test/Potato___healthy/Potato_healthy-33-_0_9870.jpg,2,2,0.0016360102,0.03368386,0.9646802
+data/Potato/Test/Potato___healthy/Potato_healthy-34-_0_3420.jpg,2,2,3.1522104e-06,1.077929e-05,0.9999862
+data/Potato/Test/Potato___healthy/Potato_healthy-34-_0_483.jpg,2,2,2.2653712e-09,5.068828e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-34-_0_5397.jpg,2,2,3.5946189e-06,1.1581581e-05,0.99998486
+data/Potato/Test/Potato___healthy/Potato_healthy-34-_0_8155.jpg,2,2,8.451365e-09,1.2304999e-07,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-35-_0_3642.jpg,2,2,5.4260273e-08,4.459722e-07,0.9999995
+data/Potato/Test/Potato___healthy/Potato_healthy-35-_0_3861.jpg,2,2,6.493493e-10,3.450172e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-35-_0_8200.jpg,2,2,5.708593e-10,1.9812406e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-35-_0_892.jpg,2,2,8.587504e-08,2.1095339e-06,0.99999774
+data/Potato/Test/Potato___healthy/Potato_healthy-36-_0_4796.jpg,2,2,2.9020237e-12,3.6344188e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-36-_0_7671.jpg,2,2,5.5144284e-13,1.6756332e-12,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-36-_0_8046.jpg,2,2,1.7062052e-14,9.965242e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-36-_0_9453.jpg,2,2,8.270171e-16,1.2586289e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-37-_0_1717.jpg,2,2,2.341359e-10,7.512343e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-37-_0_1925.jpg,2,2,3.1301142e-11,2.0796862e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-37-_0_6540.jpg,2,2,1.9511623e-10,1.1173477e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-37-_0_7226.jpg,2,2,5.2450183e-10,8.925077e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-38-_0_5133.jpg,2,2,6.742129e-07,8.625181e-05,0.999913
+data/Potato/Test/Potato___healthy/Potato_healthy-38-_0_5432.jpg,2,2,0.0013092279,0.03358188,0.9651088
+data/Potato/Test/Potato___healthy/Potato_healthy-38-_0_5655.jpg,2,2,6.8293684e-07,0.00026742776,0.99973184
+data/Potato/Test/Potato___healthy/Potato_healthy-38-_0_739.jpg,2,2,3.8489576e-09,4.305831e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-39-_0_1499.jpg,2,2,1.0196456e-11,5.5430566e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-39-_0_1922.jpg,2,2,2.493801e-09,1.9076824e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-39-_0_6873.jpg,2,2,2.0459455e-08,9.546583e-08,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-39-_0_7424.jpg,2,2,1.2312565e-10,3.3742395e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-40-_0_1629.jpg,2,2,4.883731e-10,1.600874e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-40-_0_2103.jpg,2,2,3.8677415e-11,3.950096e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-40-_0_5427.jpg,2,2,3.1158975e-10,5.715024e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-40-_0_7698.jpg,2,2,3.1171857e-11,3.8697803e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-41-_0_2629.jpg,2,2,4.8430205e-13,3.3386737e-12,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-41-_0_697.jpg,2,2,5.6178976e-12,3.1263655e-12,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-41-_0_7424.jpg,2,2,2.8738532e-13,2.029056e-12,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-41-_0_9291.jpg,2,2,6.029283e-13,1.8983945e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-42-_0_2538.jpg,2,2,3.1438194e-09,1.7112557e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-42-_0_2949.jpg,2,2,2.9551014e-10,2.1199734e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-42-_0_446.jpg,2,2,1.20236e-11,1.7378078e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-42-_0_5065.jpg,2,2,6.558552e-11,4.4682402e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_3128.jpg,2,2,5.942326e-15,6.915029e-14,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_5909.jpg,2,2,6.4812145e-15,5.297472e-13,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_7909.jpg,2,2,3.8072164e-16,6.685522e-15,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-43-_0_8883.jpg,2,2,8.8090196e-10,3.4255628e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-44-_0_2639.jpg,2,2,3.9138987e-12,2.0425475e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-44-_0_6109.jpg,2,2,6.987324e-11,1.352666e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-44-_0_9252.jpg,2,2,1.0048416e-07,4.3535092e-05,0.99995637
+data/Potato/Test/Potato___healthy/Potato_healthy-44-_0_9323.jpg,2,2,2.2566501e-10,6.310051e-08,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-45-_0_561.jpg,2,2,6.2371905e-12,6.311116e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-45-_0_6777.jpg,2,2,7.522602e-11,7.001602e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-45-_0_7254.jpg,2,2,3.4853587e-12,1.7978721e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-45-_0_9708.jpg,2,2,2.469308e-12,1.0852813e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-46-_0_1786.jpg,2,2,7.6209467e-06,0.0009334193,0.999059
+data/Potato/Test/Potato___healthy/Potato_healthy-46-_0_6185.jpg,2,2,4.308418e-05,5.4454076e-06,0.9999515
+data/Potato/Test/Potato___healthy/Potato_healthy-46-_0_8389.jpg,2,2,2.2303198e-05,0.0010636861,0.998914
+data/Potato/Test/Potato___healthy/Potato_healthy-46-_0_9804.jpg,2,2,1.4769964e-07,5.2600706e-07,0.9999994
+data/Potato/Test/Potato___healthy/Potato_healthy-47-_0_1909.jpg,2,2,7.227245e-09,8.5405736e-07,0.99999917
+data/Potato/Test/Potato___healthy/Potato_healthy-47-_0_2245.jpg,2,2,3.7182393e-10,1.4210911e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-47-_0_2947.jpg,2,2,6.486063e-11,6.323084e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-47-_0_610.jpg,2,2,1.2202432e-09,2.7651987e-08,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-48-_0_2412.jpg,2,2,5.8141745e-09,9.134676e-08,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-48-_0_3399.jpg,2,2,4.3188892e-09,3.5695342e-07,0.99999964
+data/Potato/Test/Potato___healthy/Potato_healthy-48-_0_796.jpg,2,2,3.422021e-09,9.745127e-08,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-48-_0_9953.jpg,2,2,4.3082955e-12,1.555e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-49-_0_2244.jpg,2,2,6.8769026e-09,1.2369993e-07,0.9999999
+data/Potato/Test/Potato___healthy/Potato_healthy-49-_0_2884.jpg,2,2,5.0189002e-11,4.7157395e-10,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-49-_0_3413.jpg,2,2,3.224405e-10,1.2113246e-09,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-49-_0_8902.jpg,2,2,1.1197506e-11,6.142369e-11,1.0
+data/Potato/Test/Potato___healthy/Potato_healthy-50-_0_1102.jpg,2,2,1.0613588e-07,0.00025696208,0.9997429
+data/Potato/Test/Potato___healthy/Potato_healthy-50-_0_3134.jpg,2,2,9.2318686e-08,0.00012404624,0.9998758
+data/Potato/Test/Potato___healthy/Potato_healthy-50-_0_9285.jpg,2,2,4.8688946e-09,9.930925e-07,0.99999905
+data/Potato/Test/Potato___healthy/Potato_healthy-50-_0_9887.jpg,2,2,1.6290203e-08,8.7539786e-07,0.99999917
