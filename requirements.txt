@@ -1,0 +1,15 @@
+# Tested on Windows 11, Python 3.12, NVIDIA RTX 5080 Laptop GPU (CUDA 12.8)
+# Keras 3 runs on either backend. TensorFlow >= 2.11 has no native-Windows GPU
+# support, so GPU training on Windows used the PyTorch backend (set automatically
+# by s00b_train_models.py when torch.cuda.is_available()).
+keras>=3.0            # tested 3.15.1
+tensorflow>=2.16      # tested 2.21.0 (Keras applications, data utilities, CPU timing)
+torch>=2.4            # tested 2.11.0+cu128 (GPU backend); install the CUDA build from pytorch.org
+numpy                 # tested 2.4.3
+pandas                # tested 3.0.2
+scipy
+scikit-learn
+opencv-python
+pillow
+matplotlib
+shap>=0.42            # tested 0.54.1

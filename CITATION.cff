@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "MRV-Net: An Explainable Multi-Backbone Transfer Learning Framework for Potato Leaf Disease Classification"
+authors:
+  - family-names: Ganie
+    given-names: Shahid Mohammad
+repository-code: "https://github.com/Shahid92-Phd/Potato_Leaf_Disease_Classification"
+license: MIT
+type: software
